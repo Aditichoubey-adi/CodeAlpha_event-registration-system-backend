@@ -51,7 +51,7 @@ Follow these steps to set up and run the backend locally on your machine.
 * **MongoDB Atlas Account:** You'll need a free MongoDB Atlas account to set up your cloud database.
     * [Sign up for MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
     * Set up a new cluster, create a database user with password, and whitelist your IP address.
-    * Obtain your MongoDB connection URI (it will look something like `mongodb+srv://<username>:<password>@cluster0.abcde.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`).
+    * Obtain your MongoDB connection URI (it will look something like `mongodb+srv://eventappuser:Yiy0JbkxncMdgefK@cluster0.4vko7uk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`).
 
 ### Installation
 
